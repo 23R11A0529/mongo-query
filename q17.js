@@ -10,8 +10,8 @@ db.createUser({
 
 //open mongod.cfg file and add following lines
 
-security: 
-  authorization: enabled;
+//security: 
+  //authorization: enabled;
 
 //go to services and restart mongodb server
 
